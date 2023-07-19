@@ -11,7 +11,7 @@ to input temperature in degrees Fahrenheit and convert that temperature to degre
 
 For this week i use Android Studio.
 
-xml and kotlin
+xml and java
 
 # Useful Websites
 
